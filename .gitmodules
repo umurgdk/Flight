@@ -1,0 +1,6 @@
+[submodule "lib/bandit"]
+	path = lib/bandit
+	url = https://github.com/joakimkarlsson/bandit.git
+[submodule "lib/FakeIt"]
+	path = lib/FakeIt
+	url = https://github.com/eranpeer/FakeIt.git
